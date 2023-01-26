@@ -1,1 +1,2 @@
 Automate the boring stuff
+Clean code, Robert martin
