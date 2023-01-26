@@ -1,3 +1,4 @@
 Automate the boring stuff
 Born on a blue day, Daniel Tammet
 Clean Code, Robert Martin
+The Hitchhiker's guide to the Galaxy, Douglas Adams
