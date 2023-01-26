@@ -5,6 +5,7 @@ El monje que vendió su ferrari
 Clean code, Robert martin
 Born on a blue day, Daniel Tammet
 Clean Code, Robert Martin
+Coding for Dummies,Nikhil Abraham
 Körkarlen, Selma Lagerlöf 
 Himlen börjar här, Jandy Nelson
 The Hitchhiker's guide to the Galaxy, Douglas Adams
